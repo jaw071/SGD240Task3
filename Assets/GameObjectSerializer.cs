@@ -46,6 +46,7 @@ public class GameObjectSerializer : MonoBehaviour
     }
 
     // Method to serialize a GameObject and its children
+    // This is used in the above method
     void SerializeGameObject(GameObject obj, List<SerializableGameObject> list)
     {
         // Create a new SerializableGameObject and populate its fields
