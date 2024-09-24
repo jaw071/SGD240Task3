@@ -1,3 +1,1 @@
-This is a draft submission, if you see this text, the assignment is not ready to be marked. send me an email if this is still here somehow
-
-testing sourcetree features :)
+Gday, I couldn't work out how to make the project directly open to the right scene that has my work, but there are instructions in the Sprint 2 text in the Wiki
