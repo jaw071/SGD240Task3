@@ -46,7 +46,7 @@ namespace LoadNamespace
             {
                 // Create a new GameObject with the saved name
                 GameObject newObj = new GameObject(data.name);
-
+                Debug.Log("Created GameObject: " + newObj.name);
                 // Set the position and rotation of the new GameObject
                 newObj.transform.position = data.position;
                 newObj.transform.rotation = data.rotation;
